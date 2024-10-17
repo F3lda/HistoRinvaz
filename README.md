@@ -1,6 +1,6 @@
 
 # HistoRinvaz
-Invasive ESP32-based solution for playing Internet audio streams on vintage radios. Audio stream selection is done by connecting the ESP32 to the radio's tuning capacitor. Playback is done with an internal DAC converter.
+Invasive ESP32-based solution for playing Internet audio streams on vintage radios. Audio stream selection is done by connecting the ESP32 to the radio's tuning capacitor. Playback is done with an internal DAC converter. 
 
 ## Installation
 1. Connect ESP32 pins 32 and 33 to the tuning capacitor disconnected from the vintage radio electronics.
@@ -12,5 +12,12 @@ Invasive ESP32-based solution for playing Internet audio streams on vintage radi
 - Add your URL audio streams at different capacitor tuning values.
 - Listen!
 
-## Video
-[https://www.youtube.com/watch?v=tp0sWiJ3ixc](https://www.youtube.com/watch?v=tp0sWiJ3ixc&list=PLyx6PxqS5pZ5c0ZQkjKCWe2286lkeXFXk)
+## Result
+Video: [https://www.youtube.com/watch?v=tp0sWiJ3ixc](https://www.youtube.com/watch?v=tp0sWiJ3ixc&list=PLyx6PxqS5pZ5c0ZQkjKCWe2286lkeXFXk)
+
+![HistoRinvaz](./docs/imgs/HistoRinvaz.jpeg "HistoRinvaz")
+
+![HistoRinvaz UI](./docs/imgs/HistoRinvazUI.png "HistoRinvaz UI")
+
+## Original repository
+[https://github.com/F3lda/BP-HistoR](https://github.com/F3lda/BP-HistoR)
